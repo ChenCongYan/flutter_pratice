@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Pixel 2 API 32 Screen 
+![Clip_01](https://user-images.githubusercontent.com/16878278/161902996-6ebf4b9a-c267-4883-8cd1-da2109e9c1c7.PNG)
